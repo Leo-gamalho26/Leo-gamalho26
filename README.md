@@ -10,3 +10,4 @@
 Leo-gamalho26/Leo-gamalho26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Estou aprendendo bastante sobre IASS SASS e PASS e as demais ferramentas de computação em nuvem
